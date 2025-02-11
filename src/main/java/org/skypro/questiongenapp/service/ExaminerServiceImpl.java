@@ -42,4 +42,5 @@ public class ExaminerServiceImpl implements ExaminerService {
         }
         return uniqueQuestions;  // Возвращаем коллекцию уникальных вопросов
     }
+
 }
